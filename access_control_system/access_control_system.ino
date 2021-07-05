@@ -163,7 +163,7 @@ void armUpProtocol()
     // Wait 'TIMER' milliseconds
     delay(TIMER);
     // Move the servo motor to 'i' degrees
-    myServo.write(i);
+    myServo.write(degree);
     // Turn off the buzzer
     noTone(BUZZER);
     // Wait 'TIMER' milliseconds
