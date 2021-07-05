@@ -50,3 +50,8 @@ In Figure 7 we present the state diagram of what our project does and its differ
 Figure 7: State Diagram of the project
 
 The source code is in the repository.
+
+
+This project is for educational purposes only!<br>
+Copyright Disclaimer under section 107 of the Copyright Act 1976, allowance is made for “fair use” for purposes such as criticism, comment, news reporting, teaching, scholarship, education and research.<br>
+Non-profit or educational use leans the balance in favor of fair use.  
